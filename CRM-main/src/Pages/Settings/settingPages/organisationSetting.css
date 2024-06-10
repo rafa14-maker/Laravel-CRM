@@ -1,0 +1,36 @@
+.edit-button {
+  background-color: #4557fe;
+  color: #fff;
+  padding: 0.5rem;
+  border: none;
+  border-radius: 0.5rem;
+  font-weight: 600;
+  transition: all 0.2s;
+  cursor: pointer;
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+
+.edit-button:hover,
+.edit-button:active {
+  background-color: #7f8aee;
+}
+
+.settings-table {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  margin-top: 2rem;
+  font-size: smaller;
+  border: 1px solid #eee;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
+}
+
+.settings-table > p {
+  padding: 1rem 2rem;
+  margin: 0;
+}
+
+.settings-table > * {
+  border: 1px solid #eee;
+}

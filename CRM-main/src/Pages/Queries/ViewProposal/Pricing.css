@@ -1,0 +1,55 @@
+.WelcomeTile {
+    background-image: url("../../assets/images/home/welcometile.png");
+    background-position: 90px 0px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+body.dark-mode {
+    background-color: #121212;
+    color: #e0e0e0;
+  }
+  .dark-mode table {
+    width: 98%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    background-color: #ffffff;
+    color: #000000;
+  }
+  .dark-mode thead {
+    background-color: #292929;
+    color: #ffffff;
+  }
+  .dark-mode th{
+    text-align: left;
+    font-weight: 500;
+    padding: 10px;
+  }
+   .dark-mode td {
+    border: 1px solid #555;
+    padding: 8px;
+    text-align: left;
+  }
+  .dark-mode tbody tr:nth-child(odd) {
+    background-color: #f9f9f9;
+  }
+  .dark-mode tbody tr:nth-child(even) {
+    background-color: #ffffff;
+  }
+  .dark-mode tbody tr:hover {
+    background-color: #dddddd;
+  }
+  .table-bordered {
+    border: 1px solid #b1b1b1;
+  }
+  
+  .table-bordered td {
+    border: 1px solid #b1b1b1;
+  }
+  
+  .border {
+    border: 1px solid #b1b1b1; /* Ensure the p tags have borders */
+  }
+  .early-bird-row td {
+    border: none;
+  }

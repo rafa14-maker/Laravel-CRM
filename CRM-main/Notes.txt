@@ -1,0 +1,27 @@
+1- Good morning ko upr krena ha ===> ok
+2- make the paynment collection ko upr le ana ha ===> ok
+3- Height ko increase krna ha ====> ok
+4- whether wala part dalna ha ====> ok
+5- Boxes ka design bhi change krna ha and title bhi add krna ha tour wala ka ====> ok
+6- scroll dalna ha height k hissab sa k agr data aai to scroll kr rah ho and height fix raha ====> ok
+7- Icons ka design change krna ha query wala ka as per tavbezz ===> ok
+8- no notes and no task as per tavbizz ===> ok
+9- Queries wala table pa hr table k neecha tab aai gi ====> ok
+10- icons k andr spacing aai gi ===> ok
+11- right side pa jo space ha wo remove ho gi ===> ok
+12- coorporate and agents k andr pahle company name aai ga ====> ok
+13- Itineries k and hamara pass -> remove website cost , website , market places bhi nhi aai ga , add column of updated By in it ===> ok
+14- Profit and loss k andr page scroll nhi ai ga ===> ok
+14- collection report k andr bhi samne issue ko solve krna ha ===> ok
+15- In Billing page add footer navigation ===> ok
+16- Activity wala page ghaib ho gaya ha wo check krna ha kahan ha ====> ok
+17- footer ma updates ka modal bana ga ===> ok
+18- In queries page when we chick on the id it should navigate to the page ===> ok
+19- In Queries Details Add a column of duration  ===> ok
+20- package duration need to be added in the proposals .
+21- In dashboard add the background color as per tracbizz. ===> ok
+22- Render data in the accomodation page and then check teriff ma room category ka issue ko fix krna ha. ====> ok
+23- In dashboard add top destination section ===> ok
+24- In dashboard finance report aad rupees in the bottom of the table ===> ok
+https://codepen.io/igorskyflyer/pen/zQaXqW
+https://codepen.io/azrikahar/pen/zYBGMVq
